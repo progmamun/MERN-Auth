@@ -1,0 +1,3 @@
+- `yarn create react-app my-app`
+- `yarn add react-router-dom@6`
+- `yarn add date-fns`
